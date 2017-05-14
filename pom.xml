@@ -29,8 +29,8 @@
 					<!-- muleVersion is the runtime version as it appears on the CloudHub 
 						interface -->
 					<muleVersion>3.8.3</muleVersion>
-					<username>myUsername</username>
-					<password>myPassword</password>
+					<username>jp715</username>
+					<password>Jai9ane$h</password>
 					<redeploy>true</redeploy>
 					<environment>Production</environment>
 				</configuration>
